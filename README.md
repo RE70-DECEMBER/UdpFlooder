@@ -22,3 +22,7 @@ go build
 ```bash
 ./tcpfloodzz -ip 0.0.0.0 -t 500
 ```
+
+## Flags
+-t threads
+--ip target ip address
